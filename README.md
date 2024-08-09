@@ -1,8 +1,8 @@
-# TVS-Engine-Assembly---VR
-# TVS Engine - VR Based Simulation
+# Engine-Assembly---VR
+# VR Based Simulation
 
 ## Overview
-TVS Engine is a Virtual Reality (VR) based simulation specifically designed for hand tracking in a real-time environment. This simulation focuses on the assembly of a V8 engine, providing an immersive and interactive experience for users.
+Engine is a Virtual Reality (VR) based simulation specifically designed for hand tracking in a real-time environment. This simulation focuses on the assembly of a V8 engine, providing an immersive and interactive experience for users.
 
 ## Features
 - **Hand Tracking:** Utilizes advanced hand tracking technology to provide a natural and intuitive interaction with the simulation.
